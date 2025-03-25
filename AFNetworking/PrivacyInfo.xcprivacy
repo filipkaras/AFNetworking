@@ -5,10 +5,10 @@
 	<key>NSPrivacyTracking</key>
 	<false/>
 	<key>NSPrivacyTrackingDomains</key>
-    <false/>
+    <array/>
 	<key>NSPrivacyCollectedDataTypes</key>
-    <false/>
+    <array/>
 	<key>NSPrivacyAccessedAPITypes</key>
-    <false/>
+    <array/>
 </dict>
 </plist>
